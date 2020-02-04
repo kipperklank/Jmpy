@@ -1,2 +1,2 @@
 
-print('ri')
+print('ei')
