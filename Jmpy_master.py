@@ -1,2 +1,2 @@
 
-print('ei')
+print('wi')
