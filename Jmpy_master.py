@@ -1,3 +1,9 @@
 import math
 import tkinter
-print('pi')
+
+
+def thing(a):
+    dic = {1: 'hello', 2: 'there', 3: 'yeah'}
+
+
+
